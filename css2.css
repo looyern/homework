@@ -1,0 +1,116 @@
+#container1{
+    border: 1px solid lightblue;
+    border-radius: 5px; 
+}
+#container{
+    margin: 10px;
+    background-color: lightgrey;
+}
+img1{
+    width:99%;
+}
+#text_float1{
+    position:absolute;        
+    top:280px;
+    left: 440px; 
+    color: grey;
+    letter-spacing: 3px;
+    font-weight: bold;
+}
+hr{
+    width: 300px;
+}
+#title_img{
+    height: 600px;
+    width: 1300px;
+    opacity: 0.9;
+    overflow: hidden;
+    margin:5px;
+}
+.img_float{
+    float:left;
+    margin-left: 40px;
+    background-color: white;
+    height: 620px;
+}
+.para{
+    width: 400px;
+    margin-left:110px;
+    text-align: center;
+    color: grey;
+}
+.text_center{
+    text-align: left;
+    margin-left: 20px;
+    line-height: 1.4;
+}
+.text{
+    font-weight: bold;
+    font-size: 1.5em;
+    color:black;
+}
+#hr1{
+    width:200px;
+}
+a{
+    border:1px solid grey;
+    color:grey;
+    text-decoration: none;
+    padding:10px;
+}
+#img2{
+    width: 1300px;
+    margin-top: 60px;
+    opacity: 0.8;    
+}
+#img2_container{
+    height: 200px;
+    width: 1300px;
+    overflow: hidden;
+}
+#text_float2{
+    position: absolute;
+    top:1320px;
+    left: 430px;
+    color: lightgrey;
+}
+#morbi_text1{
+    font-weight: bold;
+    color:white;
+    text-align: center;
+    font-size: 1.5em;
+}
+#hr2{
+    width: 400px;
+}
+#morbi_text2{
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+#nam_text{
+    color: grey;
+    text-align: center;
+}
+#text2{
+    margin-top: 70px;
+    margin-bottom:30px;
+}
+table{
+    margin: 0 auto;
+    border-spacing: 30px 50px;
+}
+footer{
+    margin-top: 0px;
+    padding-top: 40px;
+    height: 80px;
+    background-color: black;
+    text-align: center;
+    color:lightgrey;
+    font-size: 8px;
+}
+td{
+    border:1px solid white;
+    border-radius: 5px;
+    padding:8px;
+}
